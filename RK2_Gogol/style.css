@@ -1,0 +1,14 @@
+       TABLE{
+           background: white; /* Цвет фона таблицы */
+           color: blue; /* Цвет текста */
+           border: 1px solid black;
+           border-collapse: collapse;
+       }
+        TD,TH{
+            background: white; /* Цвет фона ячеек */
+            border: 1px solid black;
+        }
+        .color{
+            background: yellow; /* Цвет фона ячеек зебры */
+            color:blue; /* Цвет текста зебры */
+        }
